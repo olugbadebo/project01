@@ -1,0 +1,30 @@
+div h1 {
+    color: red;
+  }
+  
+  .panel-body .form-group {
+    margin: 0px;
+  }
+  
+  #leftside {
+    padding-left: 0px;
+    padding-right: 10px;
+  }
+  
+  #rightside {
+    padding-left: 10px;
+    padding-right: 0px;
+  }
+  
+  #leftside .panel {
+    margin-bottom: 20px;
+  }
+  
+  .btn-group {
+    text-align: center;
+  }
+  
+  .error {
+    outline: 1px solid red;
+  }
+  
